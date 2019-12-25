@@ -1,7 +1,7 @@
 # www.isabellewyse.rocks
 Merry Christmas Isabelle!
 
-## So what did Uncle Charlie give me for Chistmas this year?
+## So what did Uncle Charlie actually get me for Chistmas this year?
 A domain name is a way for other people to easily get things that you've
 made from places that you put them.  It's (kind of) like an address for
 your webpage!
@@ -10,7 +10,7 @@ So now if you want to make a webpage (maybe with some help from Mom and/or Dad),
 you can share it with your friends, family, and whoever else you want, 
 just by telling them what they already know, "isabellewyse.rocks"!
 
-## So how does my webpage work?
+## And how does my webpage work?
 Well, when you type your domain name into Google Chrome or Mozilla Firefox
 (please don't use Edge or Internet Explorer kids!) it turns that name into
 an IP address (extra points if you've heard of those!).  Then it uses that
