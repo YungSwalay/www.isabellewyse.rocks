@@ -20,10 +20,12 @@ And then the other computer says, "Okay, here you go!" and sends back a bunch of
 a lot like you're reading now.
 
 And that's because all webpages are is just text written in very a special way!  That's
-how we code the whole internet!  All the code that Uncle Charlie used to make your card can
+how we code the whole internet (You can see the text that makes any page by "right-clicking"
+your mouse on that page and then clicking the "View page source" option.  Try it on this 
+page)!  All the code that Uncle Charlie used to make your card can
 be found and viewed in this public GitHub repository.  Take a look through it and see if 
-you can see what it's doing.  I might even be able to show you how to change it to say what you
-want!
+you can see what it's doing, you might be surprised at what you can tell.  I might even
+be able to show you how to change it to say what you want!
 
 And finally if you've read this far, have your Mom or Dad text me the following code for
 the rest of your christmas present...9f32de.  Don't tell your sister!  You each need to do
