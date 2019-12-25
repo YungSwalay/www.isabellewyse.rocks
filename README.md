@@ -3,7 +3,7 @@ Merry Christmas Isabelle!
 
 ## So what did Uncle Charlie actually get me for Chistmas this year?
 A domain name is a way for other people to easily get things that you've
-made from places that you put them.  It's (kind of) like an address for
+made from places that you put them on the internet.  It's (kind of) like an address for
 your webpage!
 
 So now if you want to make a webpage (maybe with some help from Mom and/or Dad), 
