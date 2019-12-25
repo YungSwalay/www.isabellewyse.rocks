@@ -6,11 +6,11 @@ A domain name is a way for other people to easily get things that you've
 made from places that you put them on the internet.  It's (kind of) like an address for
 your webpage!
 
-So now if you want to make a webpage (maybe with some help from Mom and/or Dad), 
-you can share it with your friends, family, and whoever else you want, 
+Now, if you want to make a webpage (maybe with some help from Mom and/or Dad), 
+you can share it with your friends, family, or whoever you want, 
 just by telling them what they already know, "isabellewyse.rocks"!
 
-## And how does my webpage work?
+## That's cool and all Uncle Charlie, but how does my webpage work?
 Well, when you type your domain name into Google Chrome or Mozilla Firefox
 (please don't use Edge or Internet Explorer kids!) it turns that name into
 an IP address (extra points if you've heard of those!).  Then it uses that
