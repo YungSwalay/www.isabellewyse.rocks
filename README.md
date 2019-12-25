@@ -30,3 +30,5 @@ be able to show you how to change it to say what you want!
 And finally if you've read this far, have your Mom or Dad text me the following code for
 the rest of your christmas present...9f32de.  Don't tell your sister or your cousins!  You
 each need to do your own reading and you have different codes!
+
+And don't forget your Uncle Charlie loves you very, very much!
